@@ -38,5 +38,5 @@ fun main(){
             break
         }
     }
-    println("Please enter only rock paper scissors as input!")
+    println("Please enter only rock paper scissors as input oh!!")
 }
